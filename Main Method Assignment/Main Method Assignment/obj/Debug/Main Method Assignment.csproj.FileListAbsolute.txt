@@ -1,0 +1,7 @@
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.exe.config
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.exe
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.pdb
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.exe
+C:\Users\micuc\Documents\GitHub\Main-Method-Assignment\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.pdb
